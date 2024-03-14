@@ -1,5 +1,5 @@
 body {
-    background-image: url(train-who-arrived-snow-storm-bucharest-romania-january-national-railway-company-cfr-largest-railway-station-65416155.webp);
+    background-image: url(train-who-arrived-snow-storm-bucharest-romania-january-national-railway-company-cfr-largest-railway-station-65416155.webp); 
     background-size: cover;
     font-weight: bold;
     text-align: center;
@@ -8,12 +8,18 @@ body {
 h1 {
     margin-top: 10px;
     margin-bottom: 10px;
+    background-color: #e6ffff;
+    width: 20%;
+    margin: auto;
+    border-radius: 5px;
+    font-weight: bold;
 }
 
 h2 {
     font-size: 50px;
     margin-top: 0;
     margin-bottom: 20px;
+    color: blue;
 }
 
 button {
@@ -37,4 +43,5 @@ button {
 
 #save-el {
     font-size: 30px;
+    color: blue;
 }
